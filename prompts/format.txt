@@ -1,0 +1,59 @@
+## Task Description
+You will be given a model-generated response. Your task is to identify whether the response contains each of the following stylistic features and return the results as a JSON object.
+
+## Factors
+1. **opening_template**: The response begins with a phatic or meta-comment before addressing the question (e.g., "That's a great question", "Sure!", "Certainly!", "Of course!"). Do NOT count responses that begin directly with substantive content.
+
+2. **closing_template**: The response ends with a formulaic offer or sign-off addressed to the user (e.g., "Let me know if you have any questions", "I hope this helps", "Feel free to ask if you need clarification"). Do NOT count responses that end with substantive content. If the requested content is itself a letter, email, notice, speech, card, or similar text, closing lines inside that text (e.g., well-wishes, encouragement, thanks, "Best regards", signatures) are part of the content, NOT a closing template.
+
+## Examples
+Example Input 1:
+"Absolutely! Here are some coloring book prompts about space exploration for toddlers:
+1. A friendly astronaut smiling on a floating moon.
+2. A rocket with big windows soaring past stars.
+3. A tiny alien waving next to a colorful spaceship.
+These prompts are designed to be simple, vivid, and fun for toddlers to color!"
+Example Output 1:
+{"opening_template": true, "closing_template": true}
+
+Example Input 2:
+"1. "Wave FOMO: Why You Can't Miss Out on the Ocean's Magic!"
+2. "Dive Deep: The Ocean's Waves Call Your Name – Don't Miss Out!"
+3. "Seize the Wave: The Fear of Missing Out on the Ocean's Majestic Power!""
+Example Output 2:
+{"opening_template": false, "closing_template": false}
+
+Example Input 3:
+"Sure! Here's a letter congratulating your colleague:
+
+Dear Sarah,
+
+Congratulations on your well-deserved promotion to Senior Engineer! Your dedication and leadership on the migration project made a real difference to our whole team.
+
+I have no doubt you will thrive in this new role. Wishing you continued success, and I look forward to seeing all the great things you'll accomplish.
+
+Warm regards,
+Emily"
+Example Output 3:
+{"opening_template": true, "closing_template": false}
+
+Example Input 4:
+"**Notice: Office Closure for Scheduled Maintenance**
+
+Dear all,
+
+Please be advised that the office will be closed this Saturday, October 10, from 8:00 AM to 6:00 PM for electrical maintenance. Building access will be unavailable during this time. Please save your work and shut down your computers before leaving on Friday.
+
+Thank you for your understanding and cooperation.
+
+Facilities Management Team
+
+If you'd like a more humorous version, or want me to expand on any part of this notice, please let me know!"
+Example Output 4:
+{"opening_template": false, "closing_template": true}
+
+## Output Requirements
+Do not explain your reasoning. Return only the final JSON object with exactly these two boolean fields:
+{"opening_template": boolean, "closing_template": boolean}
+
+## Input Response:

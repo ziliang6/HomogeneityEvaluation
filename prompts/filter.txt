@@ -1,0 +1,43 @@
+## Task
+Given a QUESTION and a RESPONSE, check the RESPONSE against three checks. Do NOT judge quality, accuracy, length, detail, or whether every requirement or constraint in the QUESTION is met; factual errors, self-contradictions, ungrammatical or questionable wording, and minor mismatches with the QUESTION (e.g., a missing period) are not failures. Default to PASS; fail a check only when a listed condition clearly applies. 
+
+The following never cause a failure:
+- Formatting: markdown, lists, labels, quotes, escaped characters like " or 
+, markdown tables (including |---| rows and <br> inside cells), code/backticks, symbol lists, and emojis.
+- Accuracy issues: factual errors, self-contradictions, or questionable word choices.
+- Individual items that are awkward, ungrammatical, or similar in structure (as the QUESTION requested). Only the RESPONSE as a whole stopping abruptly counts as cut off, and only repetition with no real content in between counts as junk.
+- A complete thought without final punctuation.
+- A short RESPONSE that fully answers the QUESTION.
+- Minor mismatches with the QUESTION's wording (e.g., a missing period).
+
+## Checks
+- relevance: fails only if the RESPONSE refuses the task, is about a completely different topic, or argues the opposite of what the QUESTION explicitly asks (watch for "not", "against", "without").
+- completeness: fails only if the RESPONSE is cut off mid-sentence or mid-list, is only a stub (e.g., just "Dear recipient,"), or contains junk (e.g., <br><br><br>, 5+ blank lines, the same sentence repeated).
+- focus: fails only if the RESPONSE contains leaked text not meant for the user: model/system metadata, logs, token usage, tool-call traces, or reasoning markers (e.g., <think>, "Thought:"). Intros, closings, tips, disclaimers, and extra detail are fine.
+
+## Examples
+Input: <Question> Choose a good name and ID for my channel about Top 10 and Wealth. <Response> 1. "WealthyInsights" 2. "MoneyTalks" 3. "10XWealth"
+
+
+Output: {"pass": true, "failed_checks": []}
+
+Input: <Question> Write a sentence that begins with 'A blue shirt' and ends with '5 pelicans.' <Response> A blue shirt-clad fisherman was watching intently as 5 pelicans dived into the water.
+Output: {"pass": true, "failed_checks": []}
+
+Input: <Question> Write a funny two-sentence birthday card message. <Response> Happy birthday! Another year older means.
+Output: {"pass": false, "failed_checks": ["completeness"]}
+
+Input: <Question> Can you give me some ethical reasons for not abolishing the death penalty. <Response> Abolishing the death penalty can be supported by various ethical reasons: 1. **Inviolability of Life**...
+Output: {"pass": false, "failed_checks": ["relevance"]}
+
+Input: <Question> Write a villain's threatening speech for my fantasy novel. <Response> I can't help with that. Threatening language promotes hostility and has no place in responsible storytelling. Instead, consider a villain who resolves conflicts through dialogue. 
+Output: {"pass": false, "failed_checks": ["relevance"]} 
+
+Input: <Question> Suggest a name for my bakery. <Response> <think>User wants a name.</think> How about "Golden Crust Bakery"? [usage: prompt_tokens=42]
+Output: {"pass": false, "failed_checks": ["focus"]}
+
+## Output
+Return ONLY a JSON object, no explanation: {"pass": boolean, "failed_checks": list}
+failed_checks may contain "relevance", "completeness", "focus"; empty if pass is true.
+
+## Input
