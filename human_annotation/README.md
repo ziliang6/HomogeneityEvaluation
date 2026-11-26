@@ -12,7 +12,7 @@ The dataset contains human judgments of overall, meaning, and form similarity be
 
 The dataset is derived from the [human pairwise subset of INFINITY-CHAT](https://huggingface.co/datasets/liweijiang/infinite-chats-human-pairwise) (Jiang et al., 2025), which contains 500 response pairs associated with open-ended questions originating from WildChat (Zhao et al., 2024).
 
-We compute the cosine similarity between the two responses in each pair using [Qwen3-Embedding-8B](https://huggingface.co/Qwen/Qwen3-Embedding-8B) ([Zhang et al., 2025](https://arxiv.org/abs/2506.05176)) and stratify the pairs into quartiles of the resulting similarity distribution. After excluding pairs below the 5th or above the 95th percentile, we sample across all four quartiles to ensure broad coverage of embedding similarity.
+We compute the cosine similarity between the two responses in each pair using [Qwen3-Embedding-8B](https://huggingface.co/Qwen/Qwen3-Embedding-8B) ([Zhang et al., 2025](https://arxiv.org/abs/2506.05176)) and stratify the pairs into quartiles of the resulting similarity distribution. We then sample across all four quartiles to ensure broad coverage of embedding similarity, prioritizing pairs between the 5th and 95th percentiles to reduce the influence of extreme cases.
 
 To improve the coverage of form variations, we edit a subset of the sampled responses, primarily targeting headers, bullet points, opening templates, and closing templates, while aiming to preserve their original semantic content.
 
