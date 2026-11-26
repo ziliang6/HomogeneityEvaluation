@@ -1,0 +1,669 @@
+﻿round,annotator_id,presentation_order,index,type,dimensions,swapped,response_a,response_b
+round_1,1,1,7,main,overall,false,response_1,response_2
+round_1,1,2,77,main,overall,false,response_1,response_2
+round_1,1,3,22,main,overall,true,response_2,response_1
+round_1,1,4,63,main,overall,false,response_1,response_2
+round_1,1,5,79,main,overall,true,response_2,response_1
+round_1,1,6,66,catch,overall,false,response_1,response_1
+round_1,1,7,10,main,overall,true,response_2,response_1
+round_1,1,8,91,halo,overall,false,response_1,response_2
+round_1,1,9,85,main,overall,false,response_1,response_2
+round_1,1,10,47,main,overall,true,response_2,response_1
+round_1,1,11,32,main,overall,true,response_2,response_1
+round_1,1,12,71,main,overall,false,response_1,response_2
+round_1,1,13,55,main,overall,true,response_2,response_1
+round_1,1,14,4,main,overall,false,response_1,response_2
+round_1,1,15,7,repeat,overall,true,response_2,response_1
+round_1,1,16,48,main,overall,false,response_1,response_2
+round_1,1,17,24,main,overall,false,response_1,response_2
+round_1,1,18,13,main,overall,true,response_2,response_1
+round_1,1,19,67,main,overall,false,response_1,response_2
+round_1,1,20,78,main,overall,false,response_1,response_2
+round_1,1,21,92,halo,overall,true,response_2,response_1
+round_1,1,22,44,main,overall,false,response_1,response_2
+round_1,1,23,51,main,overall,false,response_1,response_2
+round_1,1,24,40,main,overall,true,response_2,response_1
+round_1,1,25,86,main,overall,false,response_1,response_2
+round_1,1,26,54,main,overall,false,response_1,response_2
+round_1,1,27,22,repeat,overall,false,response_1,response_2
+round_1,1,28,6,main,overall,true,response_2,response_1
+round_1,1,29,35,main,overall,false,response_1,response_2
+round_1,1,30,19,catch,overall,false,response_1,response_1
+round_1,1,31,58,main,overall,true,response_2,response_1
+round_1,1,32,34,main,overall,true,response_2,response_1
+round_1,1,33,2,main,overall,true,response_2,response_1
+round_1,1,34,93,halo,overall,true,response_2,response_1
+round_1,1,35,82,main,overall,false,response_1,response_2
+round_1,1,36,43,main,overall,false,response_1,response_2
+round_1,1,37,62,main,overall,true,response_2,response_1
+round_1,1,38,23,main,overall,true,response_2,response_1
+round_1,1,39,77,repeat,overall,true,response_2,response_1
+round_1,1,40,73,main,overall,true,response_2,response_1
+round_1,1,41,61,main,overall,true,response_2,response_1
+round_1,1,42,9,main,overall,false,response_1,response_2
+round_1,2,1,28,main,overall,false,response_1,response_2
+round_1,2,2,49,main,overall,true,response_2,response_1
+round_1,2,3,78,main,overall,false,response_1,response_2
+round_1,2,4,16,main,overall,false,response_1,response_2
+round_1,2,5,59,main,overall,false,response_1,response_2
+round_1,2,6,4,catch,overall,false,response_1,response_1
+round_1,2,7,8,main,overall,false,response_1,response_2
+round_1,2,8,89,main,overall,true,response_2,response_1
+round_1,2,9,91,halo,overall,true,response_2,response_1
+round_1,2,10,2,main,overall,false,response_1,response_2
+round_1,2,11,27,main,overall,false,response_1,response_2
+round_1,2,12,50,main,overall,false,response_1,response_2
+round_1,2,13,90,main,overall,false,response_1,response_2
+round_1,2,14,30,main,overall,true,response_2,response_1
+round_1,2,15,28,repeat,overall,true,response_2,response_1
+round_1,2,16,52,main,overall,false,response_1,response_2
+round_1,2,17,72,main,overall,true,response_2,response_1
+round_1,2,18,70,main,overall,true,response_2,response_1
+round_1,2,19,33,main,overall,false,response_1,response_2
+round_1,2,20,75,main,overall,true,response_2,response_1
+round_1,2,21,39,main,overall,true,response_2,response_1
+round_1,2,22,1,main,overall,true,response_2,response_1
+round_1,2,23,92,halo,overall,true,response_2,response_1
+round_1,2,24,88,main,overall,false,response_1,response_2
+round_1,2,25,68,main,overall,false,response_1,response_2
+round_1,2,26,76,main,overall,true,response_2,response_1
+round_1,2,27,49,repeat,overall,false,response_1,response_2
+round_1,2,28,38,main,overall,false,response_1,response_2
+round_1,2,29,56,main,overall,true,response_2,response_1
+round_1,2,30,66,catch,overall,false,response_1,response_1
+round_1,2,31,29,main,overall,false,response_1,response_2
+round_1,2,32,5,main,overall,false,response_1,response_2
+round_1,2,33,64,main,overall,true,response_2,response_1
+round_1,2,34,9,main,overall,true,response_2,response_1
+round_1,2,35,37,main,overall,true,response_2,response_1
+round_1,2,36,18,main,overall,false,response_1,response_2
+round_1,2,37,93,halo,overall,false,response_1,response_2
+round_1,2,38,53,main,overall,false,response_1,response_2
+round_1,2,39,78,repeat,overall,true,response_2,response_1
+round_1,2,40,26,main,overall,true,response_2,response_1
+round_1,2,41,15,main,overall,false,response_1,response_2
+round_1,2,42,69,main,overall,true,response_2,response_1
+round_1,3,1,25,main,overall,false,response_1,response_2
+round_1,3,2,66,main,overall,false,response_1,response_2
+round_1,3,3,77,main,overall,true,response_2,response_1
+round_1,3,4,11,main,overall,true,response_2,response_1
+round_1,3,5,64,main,overall,false,response_1,response_2
+round_1,3,6,37,catch,overall,false,response_1,response_1
+round_1,3,7,24,main,overall,true,response_2,response_1
+round_1,3,8,73,main,overall,true,response_2,response_1
+round_1,3,9,62,main,overall,true,response_2,response_1
+round_1,3,10,91,halo,overall,false,response_1,response_2
+round_1,3,11,31,main,overall,true,response_2,response_1
+round_1,3,12,69,main,overall,false,response_1,response_2
+round_1,3,13,19,main,overall,true,response_2,response_1
+round_1,3,14,45,main,overall,false,response_1,response_2
+round_1,3,15,25,repeat,overall,true,response_2,response_1
+round_1,3,16,86,main,overall,true,response_2,response_1
+round_1,3,17,35,main,overall,true,response_2,response_1
+round_1,3,18,65,main,overall,true,response_2,response_1
+round_1,3,19,82,main,overall,false,response_1,response_2
+round_1,3,20,6,main,overall,false,response_1,response_2
+round_1,3,21,72,main,overall,false,response_1,response_2
+round_1,3,22,44,main,overall,true,response_2,response_1
+round_1,3,23,51,main,overall,false,response_1,response_2
+round_1,3,24,81,main,overall,false,response_1,response_2
+round_1,3,25,92,halo,overall,false,response_1,response_2
+round_1,3,26,48,main,overall,false,response_1,response_2
+round_1,3,27,66,repeat,overall,true,response_2,response_1
+round_1,3,28,28,main,overall,false,response_1,response_2
+round_1,3,29,57,main,overall,false,response_1,response_2
+round_1,3,30,75,catch,overall,false,response_1,response_1
+round_1,3,31,15,main,overall,false,response_1,response_2
+round_1,3,32,79,main,overall,true,response_2,response_1
+round_1,3,33,26,main,overall,false,response_1,response_2
+round_1,3,34,93,halo,overall,true,response_2,response_1
+round_1,3,35,12,main,overall,false,response_1,response_2
+round_1,3,36,32,main,overall,false,response_1,response_2
+round_1,3,37,54,main,overall,true,response_2,response_1
+round_1,3,38,7,main,overall,false,response_1,response_2
+round_1,3,39,77,repeat,overall,false,response_1,response_2
+round_1,3,40,87,main,overall,true,response_2,response_1
+round_1,3,41,38,main,overall,false,response_1,response_2
+round_1,3,42,18,main,overall,false,response_1,response_2
+round_1,4,1,4,main,overall,false,response_1,response_2
+round_1,4,2,38,main,overall,true,response_2,response_1
+round_1,4,3,58,main,overall,true,response_2,response_1
+round_1,4,4,42,main,overall,true,response_2,response_1
+round_1,4,5,84,main,overall,true,response_2,response_1
+round_1,4,6,66,catch,overall,false,response_1,response_1
+round_1,4,7,1,main,overall,true,response_2,response_1
+round_1,4,8,43,main,overall,false,response_1,response_2
+round_1,4,9,46,main,overall,true,response_2,response_1
+round_1,4,10,40,main,overall,true,response_2,response_1
+round_1,4,11,91,halo,overall,true,response_2,response_1
+round_1,4,12,74,main,overall,false,response_1,response_2
+round_1,4,13,9,main,overall,true,response_2,response_1
+round_1,4,14,36,main,overall,true,response_2,response_1
+round_1,4,15,4,repeat,overall,true,response_2,response_1
+round_1,4,16,60,main,overall,true,response_2,response_1
+round_1,4,17,80,main,overall,true,response_2,response_1
+round_1,4,18,51,main,overall,false,response_1,response_2
+round_1,4,19,5,main,overall,true,response_2,response_1
+round_1,4,20,65,main,overall,false,response_1,response_2
+round_1,4,21,92,halo,overall,false,response_1,response_2
+round_1,4,22,30,main,overall,true,response_2,response_1
+round_1,4,23,59,main,overall,false,response_1,response_2
+round_1,4,24,81,main,overall,true,response_2,response_1
+round_1,4,25,22,main,overall,true,response_2,response_1
+round_1,4,26,20,main,overall,true,response_2,response_1
+round_1,4,27,38,repeat,overall,false,response_1,response_2
+round_1,4,28,90,main,overall,true,response_2,response_1
+round_1,4,29,17,main,overall,true,response_2,response_1
+round_1,4,30,28,catch,overall,false,response_1,response_1
+round_1,4,31,31,main,overall,true,response_2,response_1
+round_1,4,32,71,main,overall,false,response_1,response_2
+round_1,4,33,3,main,overall,false,response_1,response_2
+round_1,4,34,21,main,overall,true,response_2,response_1
+round_1,4,35,50,main,overall,true,response_2,response_1
+round_1,4,36,39,main,overall,true,response_2,response_1
+round_1,4,37,93,halo,overall,false,response_1,response_2
+round_1,4,38,89,main,overall,true,response_2,response_1
+round_1,4,39,58,repeat,overall,false,response_1,response_2
+round_1,4,40,63,main,overall,true,response_2,response_1
+round_1,4,41,18,main,overall,true,response_2,response_1
+round_1,4,42,53,main,overall,true,response_2,response_1
+round_1,5,1,13,main,overall,false,response_1,response_2
+round_1,5,2,25,main,overall,true,response_2,response_1
+round_1,5,3,75,main,overall,true,response_2,response_1
+round_1,5,4,27,main,overall,true,response_2,response_1
+round_1,5,5,60,main,overall,false,response_1,response_2
+round_1,5,6,4,catch,overall,false,response_1,response_1
+round_1,5,7,22,main,overall,true,response_2,response_1
+round_1,5,8,14,main,overall,false,response_1,response_2
+round_1,5,9,50,main,overall,false,response_1,response_2
+round_1,5,10,88,main,overall,true,response_2,response_1
+round_1,5,11,70,main,overall,false,response_1,response_2
+round_1,5,12,91,halo,overall,false,response_1,response_2
+round_1,5,13,29,main,overall,false,response_1,response_2
+round_1,5,14,90,main,overall,false,response_1,response_2
+round_1,5,15,13,repeat,overall,true,response_2,response_1
+round_1,5,16,43,main,overall,true,response_2,response_1
+round_1,5,17,67,main,overall,false,response_1,response_2
+round_1,5,18,23,main,overall,true,response_2,response_1
+round_1,5,19,16,main,overall,false,response_1,response_2
+round_1,5,20,24,main,overall,true,response_2,response_1
+round_1,5,21,49,main,overall,true,response_2,response_1
+round_1,5,22,76,main,overall,false,response_1,response_2
+round_1,5,23,92,halo,overall,true,response_2,response_1
+round_1,5,24,69,main,overall,true,response_2,response_1
+round_1,5,25,7,main,overall,false,response_1,response_2
+round_1,5,26,80,main,overall,true,response_2,response_1
+round_1,5,27,25,repeat,overall,false,response_1,response_2
+round_1,5,28,55,main,overall,true,response_2,response_1
+round_1,5,29,19,main,overall,true,response_2,response_1
+round_1,5,30,66,catch,overall,false,response_2,response_2
+round_1,5,31,39,main,overall,false,response_1,response_2
+round_1,5,32,85,main,overall,false,response_1,response_2
+round_1,5,33,52,main,overall,true,response_2,response_1
+round_1,5,34,93,halo,overall,false,response_1,response_2
+round_1,5,35,72,main,overall,false,response_1,response_2
+round_1,5,36,20,main,overall,true,response_2,response_1
+round_1,5,37,32,main,overall,true,response_2,response_1
+round_1,5,38,56,main,overall,true,response_2,response_1
+round_1,5,39,75,repeat,overall,false,response_1,response_2
+round_1,5,40,3,main,overall,true,response_2,response_1
+round_1,5,41,34,main,overall,true,response_2,response_1
+round_1,5,42,83,main,overall,true,response_2,response_1
+round_1,6,1,13,main,overall,false,response_1,response_2
+round_1,6,2,31,main,overall,false,response_1,response_2
+round_1,6,3,75,main,overall,false,response_1,response_2
+round_1,6,4,53,main,overall,false,response_1,response_2
+round_1,6,5,25,main,overall,false,response_1,response_2
+round_1,6,6,66,catch,overall,false,response_1,response_1
+round_1,6,7,62,main,overall,true,response_2,response_1
+round_1,6,8,91,halo,overall,false,response_1,response_2
+round_1,6,9,12,main,overall,false,response_1,response_2
+round_1,6,10,21,main,overall,true,response_2,response_1
+round_1,6,11,2,main,overall,true,response_2,response_1
+round_1,6,12,63,main,overall,true,response_2,response_1
+round_1,6,13,4,main,overall,true,response_2,response_1
+round_1,6,14,37,main,overall,true,response_2,response_1
+round_1,6,15,13,repeat,overall,true,response_2,response_1
+round_1,6,16,79,main,overall,true,response_2,response_1
+round_1,6,17,60,main,overall,false,response_1,response_2
+round_1,6,18,78,main,overall,false,response_1,response_2
+round_1,6,19,10,main,overall,true,response_2,response_1
+round_1,6,20,89,main,overall,false,response_1,response_2
+round_1,6,21,65,main,overall,false,response_1,response_2
+round_1,6,22,76,main,overall,true,response_2,response_1
+round_1,6,23,34,main,overall,true,response_2,response_1
+round_1,6,24,17,main,overall,true,response_2,response_1
+round_1,6,25,92,halo,overall,false,response_1,response_2
+round_1,6,26,70,main,overall,true,response_2,response_1
+round_1,6,27,31,repeat,overall,true,response_2,response_1
+round_1,6,28,86,main,overall,true,response_2,response_1
+round_1,6,29,46,main,overall,true,response_2,response_1
+round_1,6,30,28,catch,overall,false,response_1,response_1
+round_1,6,31,42,main,overall,true,response_2,response_1
+round_1,6,32,14,main,overall,false,response_1,response_2
+round_1,6,33,48,main,overall,false,response_1,response_2
+round_1,6,34,41,main,overall,false,response_1,response_2
+round_1,6,35,82,main,overall,true,response_2,response_1
+round_1,6,36,64,main,overall,false,response_1,response_2
+round_1,6,37,93,halo,overall,true,response_2,response_1
+round_1,6,38,33,main,overall,true,response_2,response_1
+round_1,6,39,75,repeat,overall,true,response_2,response_1
+round_1,6,40,55,main,overall,true,response_2,response_1
+round_1,6,41,84,main,overall,false,response_1,response_2
+round_1,6,42,27,main,overall,false,response_1,response_2
+round_1,7,1,19,main,overall,false,response_1,response_2
+round_1,7,2,66,main,overall,false,response_1,response_2
+round_1,7,3,77,main,overall,false,response_1,response_2
+round_1,7,4,36,main,overall,true,response_2,response_1
+round_1,7,5,56,main,overall,true,response_2,response_1
+round_1,7,6,28,catch,overall,false,response_1,response_1
+round_1,7,7,74,main,overall,false,response_1,response_2
+round_1,7,8,33,main,overall,false,response_1,response_2
+round_1,7,9,91,halo,overall,false,response_1,response_2
+round_1,7,10,84,main,overall,false,response_1,response_2
+round_1,7,11,67,main,overall,false,response_1,response_2
+round_1,7,12,45,main,overall,true,response_2,response_1
+round_1,7,13,83,main,overall,true,response_2,response_1
+round_1,7,14,8,main,overall,true,response_2,response_1
+round_1,7,15,19,repeat,overall,true,response_2,response_1
+round_1,7,16,73,main,overall,false,response_1,response_2
+round_1,7,17,29,main,overall,true,response_2,response_1
+round_1,7,18,88,main,overall,false,response_1,response_2
+round_1,7,19,61,main,overall,false,response_1,response_2
+round_1,7,20,41,main,overall,false,response_1,response_2
+round_1,7,21,92,halo,overall,false,response_1,response_2
+round_1,7,22,57,main,overall,false,response_1,response_2
+round_1,7,23,15,main,overall,true,response_2,response_1
+round_1,7,24,21,main,overall,false,response_1,response_2
+round_1,7,25,10,main,overall,false,response_1,response_2
+round_1,7,26,58,main,overall,true,response_2,response_1
+round_1,7,27,66,repeat,overall,true,response_2,response_1
+round_1,7,28,40,main,overall,true,response_2,response_1
+round_1,7,29,11,main,overall,true,response_2,response_1
+round_1,7,30,25,catch,overall,false,response_2,response_2
+round_1,7,31,68,main,overall,true,response_2,response_1
+round_1,7,32,20,main,overall,true,response_2,response_1
+round_1,7,33,35,main,overall,false,response_1,response_2
+round_1,7,34,93,halo,overall,false,response_1,response_2
+round_1,7,35,5,main,overall,true,response_2,response_1
+round_1,7,36,87,main,overall,true,response_2,response_1
+round_1,7,37,47,main,overall,false,response_1,response_2
+round_1,7,38,30,main,overall,true,response_2,response_1
+round_1,7,39,77,repeat,overall,true,response_2,response_1
+round_1,7,40,1,main,overall,true,response_2,response_1
+round_1,7,41,54,main,overall,true,response_2,response_1
+round_1,8,1,16,main,overall,false,response_1,response_2
+round_1,8,2,49,main,overall,false,response_1,response_2
+round_1,8,3,28,main,overall,false,response_1,response_2
+round_1,8,4,66,main,overall,false,response_1,response_2
+round_1,8,5,80,main,overall,false,response_1,response_2
+round_1,8,6,25,catch,overall,false,response_2,response_2
+round_1,8,7,14,main,overall,false,response_1,response_2
+round_1,8,8,83,main,overall,true,response_2,response_1
+round_1,8,9,36,main,overall,true,response_2,response_1
+round_1,8,10,91,halo,overall,true,response_2,response_1
+round_1,8,11,61,main,overall,false,response_1,response_2
+round_1,8,12,87,main,overall,false,response_1,response_2
+round_1,8,13,6,main,overall,false,response_1,response_2
+round_1,8,14,68,main,overall,false,response_1,response_2
+round_1,8,15,16,repeat,overall,true,response_2,response_1
+round_1,8,16,44,main,overall,true,response_2,response_1
+round_1,8,17,3,main,overall,false,response_1,response_2
+round_1,8,18,85,main,overall,true,response_2,response_1
+round_1,8,19,23,main,overall,true,response_2,response_1
+round_1,8,20,8,main,overall,false,response_1,response_2
+round_1,8,21,41,main,overall,false,response_1,response_2
+round_1,8,22,71,main,overall,false,response_1,response_2
+round_1,8,23,92,halo,overall,true,response_2,response_1
+round_1,8,24,46,main,overall,false,response_1,response_2
+round_1,8,25,12,main,overall,true,response_2,response_1
+round_1,8,26,45,main,overall,false,response_1,response_2
+round_1,8,27,28,repeat,overall,true,response_2,response_1
+round_1,8,28,52,main,overall,true,response_2,response_1
+round_1,8,29,26,main,overall,false,response_1,response_2
+round_1,8,30,77,catch,overall,false,response_2,response_2
+round_1,8,31,74,main,overall,true,response_2,response_1
+round_1,8,32,59,main,overall,false,response_1,response_2
+round_1,8,33,17,main,overall,false,response_1,response_2
+round_1,8,34,42,main,overall,true,response_2,response_1
+round_1,8,35,11,main,overall,false,response_1,response_2
+round_1,8,36,81,main,overall,false,response_1,response_2
+round_1,8,37,93,halo,overall,false,response_1,response_2
+round_1,8,38,47,main,overall,true,response_2,response_1
+round_1,8,39,49,repeat,overall,true,response_2,response_1
+round_1,8,40,37,main,overall,true,response_2,response_1
+round_1,8,41,57,main,overall,false,response_1,response_2
+round_2,1,1,22,main,"meaning, form",true,response_2,response_1
+round_2,1,2,32,main,"meaning, form",true,response_2,response_1
+round_2,1,3,62,main,"meaning, form",true,response_2,response_1
+round_2,1,4,35,main,"meaning, form",false,response_1,response_2
+round_2,1,5,63,main,"meaning, form",false,response_1,response_2
+round_2,1,6,19,catch,"meaning, form",false,response_1,response_1
+round_2,1,7,61,main,"meaning, form",true,response_2,response_1
+round_2,1,8,93,halo,"meaning, form",true,response_2,response_1
+round_2,1,9,48,main,"meaning, form",false,response_1,response_2
+round_2,1,10,47,main,"meaning, form",true,response_2,response_1
+round_2,1,11,34,main,"meaning, form",true,response_2,response_1
+round_2,1,12,13,main,"meaning, form",true,response_2,response_1
+round_2,1,13,43,main,"meaning, form",false,response_1,response_2
+round_2,1,14,40,main,"meaning, form",true,response_2,response_1
+round_2,1,15,7,repeat,"meaning, form",true,response_2,response_1
+round_2,1,16,44,main,"meaning, form",false,response_1,response_2
+round_2,1,17,51,main,"meaning, form",false,response_1,response_2
+round_2,1,18,55,main,"meaning, form",true,response_2,response_1
+round_2,1,19,82,main,"meaning, form",false,response_1,response_2
+round_2,1,20,58,main,"meaning, form",true,response_2,response_1
+round_2,1,21,92,halo,"meaning, form",true,response_2,response_1
+round_2,1,22,6,main,"meaning, form",true,response_2,response_1
+round_2,1,23,9,main,"meaning, form",false,response_1,response_2
+round_2,1,24,78,main,"meaning, form",false,response_1,response_2
+round_2,1,25,85,main,"meaning, form",false,response_1,response_2
+round_2,1,26,4,main,"meaning, form",false,response_1,response_2
+round_2,1,27,22,repeat,"meaning, form",false,response_1,response_2
+round_2,1,28,24,main,"meaning, form",false,response_1,response_2
+round_2,1,29,23,main,"meaning, form",true,response_2,response_1
+round_2,1,30,66,catch,"meaning, form",false,response_1,response_1
+round_2,1,31,77,main,"meaning, form",false,response_1,response_2
+round_2,1,32,79,main,"meaning, form",true,response_2,response_1
+round_2,1,33,54,main,"meaning, form",false,response_1,response_2
+round_2,1,34,91,halo,"meaning, form",false,response_1,response_2
+round_2,1,35,67,main,"meaning, form",false,response_1,response_2
+round_2,1,36,71,main,"meaning, form",false,response_1,response_2
+round_2,1,37,86,main,"meaning, form",false,response_1,response_2
+round_2,1,38,2,main,"meaning, form",true,response_2,response_1
+round_2,1,39,77,repeat,"meaning, form",true,response_2,response_1
+round_2,1,40,73,main,"meaning, form",true,response_2,response_1
+round_2,1,41,10,main,"meaning, form",true,response_2,response_1
+round_2,1,42,7,main,"meaning, form",false,response_1,response_2
+round_2,2,1,29,main,"meaning, form",false,response_1,response_2
+round_2,2,2,33,main,"meaning, form",false,response_1,response_2
+round_2,2,3,26,main,"meaning, form",true,response_2,response_1
+round_2,2,4,88,main,"meaning, form",false,response_1,response_2
+round_2,2,5,49,main,"meaning, form",true,response_2,response_1
+round_2,2,6,4,catch,"meaning, form",false,response_1,response_1
+round_2,2,7,38,main,"meaning, form",false,response_1,response_2
+round_2,2,8,9,main,"meaning, form",true,response_2,response_1
+round_2,2,9,91,halo,"meaning, form",true,response_2,response_1
+round_2,2,10,56,main,"meaning, form",true,response_2,response_1
+round_2,2,11,8,main,"meaning, form",false,response_1,response_2
+round_2,2,12,30,main,"meaning, form",true,response_2,response_1
+round_2,2,13,53,main,"meaning, form",false,response_1,response_2
+round_2,2,14,52,main,"meaning, form",false,response_1,response_2
+round_2,2,15,78,repeat,"meaning, form",true,response_2,response_1
+round_2,2,16,76,main,"meaning, form",true,response_2,response_1
+round_2,2,17,90,main,"meaning, form",false,response_1,response_2
+round_2,2,18,72,main,"meaning, form",true,response_2,response_1
+round_2,2,19,64,main,"meaning, form",true,response_2,response_1
+round_2,2,20,16,main,"meaning, form",false,response_1,response_2
+round_2,2,21,28,main,"meaning, form",false,response_1,response_2
+round_2,2,22,89,main,"meaning, form",true,response_2,response_1
+round_2,2,23,93,halo,"meaning, form",false,response_1,response_2
+round_2,2,24,50,main,"meaning, form",false,response_1,response_2
+round_2,2,25,69,main,"meaning, form",true,response_2,response_1
+round_2,2,26,70,main,"meaning, form",true,response_2,response_1
+round_2,2,27,28,repeat,"meaning, form",true,response_2,response_1
+round_2,2,28,39,main,"meaning, form",true,response_2,response_1
+round_2,2,29,1,main,"meaning, form",true,response_2,response_1
+round_2,2,30,66,catch,"meaning, form",false,response_1,response_1
+round_2,2,31,15,main,"meaning, form",false,response_1,response_2
+round_2,2,32,18,main,"meaning, form",false,response_1,response_2
+round_2,2,33,75,main,"meaning, form",true,response_2,response_1
+round_2,2,34,68,main,"meaning, form",false,response_1,response_2
+round_2,2,35,27,main,"meaning, form",false,response_1,response_2
+round_2,2,36,2,main,"meaning, form",false,response_1,response_2
+round_2,2,37,92,halo,"meaning, form",true,response_2,response_1
+round_2,2,38,59,main,"meaning, form",false,response_1,response_2
+round_2,2,39,49,repeat,"meaning, form",false,response_1,response_2
+round_2,2,40,37,main,"meaning, form",true,response_2,response_1
+round_2,2,41,78,main,"meaning, form",false,response_1,response_2
+round_2,2,42,5,main,"meaning, form",false,response_1,response_2
+round_2,3,1,64,main,"meaning, form",false,response_1,response_2
+round_2,3,2,35,main,"meaning, form",true,response_2,response_1
+round_2,3,3,57,main,"meaning, form",false,response_1,response_2
+round_2,3,4,7,main,"meaning, form",false,response_1,response_2
+round_2,3,5,45,main,"meaning, form",false,response_1,response_2
+round_2,3,6,75,catch,"meaning, form",false,response_1,response_1
+round_2,3,7,62,main,"meaning, form",true,response_2,response_1
+round_2,3,8,87,main,"meaning, form",true,response_2,response_1
+round_2,3,9,28,main,"meaning, form",false,response_1,response_2
+round_2,3,10,92,halo,"meaning, form",false,response_1,response_2
+round_2,3,11,82,main,"meaning, form",false,response_1,response_2
+round_2,3,12,26,main,"meaning, form",false,response_1,response_2
+round_2,3,13,18,main,"meaning, form",false,response_1,response_2
+round_2,3,14,44,main,"meaning, form",true,response_2,response_1
+round_2,3,15,66,repeat,"meaning, form",true,response_2,response_1
+round_2,3,16,31,main,"meaning, form",true,response_2,response_1
+round_2,3,17,51,main,"meaning, form",false,response_1,response_2
+round_2,3,18,86,main,"meaning, form",true,response_2,response_1
+round_2,3,19,24,main,"meaning, form",true,response_2,response_1
+round_2,3,20,15,main,"meaning, form",false,response_1,response_2
+round_2,3,21,72,main,"meaning, form",false,response_1,response_2
+round_2,3,22,69,main,"meaning, form",false,response_1,response_2
+round_2,3,23,73,main,"meaning, form",true,response_2,response_1
+round_2,3,24,38,main,"meaning, form",false,response_1,response_2
+round_2,3,25,91,halo,"meaning, form",false,response_1,response_2
+round_2,3,26,54,main,"meaning, form",true,response_2,response_1
+round_2,3,27,77,repeat,"meaning, form",false,response_1,response_2
+round_2,3,28,6,main,"meaning, form",false,response_1,response_2
+round_2,3,29,11,main,"meaning, form",true,response_2,response_1
+round_2,3,30,37,catch,"meaning, form",false,response_1,response_1
+round_2,3,31,25,main,"meaning, form",false,response_1,response_2
+round_2,3,32,66,main,"meaning, form",false,response_1,response_2
+round_2,3,33,79,main,"meaning, form",true,response_2,response_1
+round_2,3,34,93,halo,"meaning, form",true,response_2,response_1
+round_2,3,35,19,main,"meaning, form",true,response_2,response_1
+round_2,3,36,12,main,"meaning, form",false,response_1,response_2
+round_2,3,37,32,main,"meaning, form",false,response_1,response_2
+round_2,3,38,81,main,"meaning, form",false,response_1,response_2
+round_2,3,39,25,repeat,"meaning, form",true,response_2,response_1
+round_2,3,40,65,main,"meaning, form",true,response_2,response_1
+round_2,3,41,77,main,"meaning, form",true,response_2,response_1
+round_2,3,42,48,main,"meaning, form",false,response_1,response_2
+round_2,4,1,42,main,"meaning, form",true,response_2,response_1
+round_2,4,2,60,main,"meaning, form",true,response_2,response_1
+round_2,4,3,74,main,"meaning, form",false,response_1,response_2
+round_2,4,4,89,main,"meaning, form",true,response_2,response_1
+round_2,4,5,1,main,"meaning, form",true,response_2,response_1
+round_2,4,6,66,catch,"meaning, form",false,response_1,response_1
+round_2,4,7,38,main,"meaning, form",true,response_2,response_1
+round_2,4,8,5,main,"meaning, form",true,response_2,response_1
+round_2,4,9,63,main,"meaning, form",true,response_2,response_1
+round_2,4,10,51,main,"meaning, form",false,response_1,response_2
+round_2,4,11,91,halo,"meaning, form",true,response_2,response_1
+round_2,4,12,71,main,"meaning, form",false,response_1,response_2
+round_2,4,13,46,main,"meaning, form",true,response_2,response_1
+round_2,4,14,31,main,"meaning, form",true,response_2,response_1
+round_2,4,15,58,repeat,"meaning, form",false,response_1,response_2
+round_2,4,16,80,main,"meaning, form",true,response_2,response_1
+round_2,4,17,43,main,"meaning, form",false,response_1,response_2
+round_2,4,18,39,main,"meaning, form",true,response_2,response_1
+round_2,4,19,20,main,"meaning, form",true,response_2,response_1
+round_2,4,20,17,main,"meaning, form",true,response_2,response_1
+round_2,4,21,92,halo,"meaning, form",false,response_1,response_2
+round_2,4,22,18,main,"meaning, form",true,response_2,response_1
+round_2,4,23,40,main,"meaning, form",true,response_2,response_1
+round_2,4,24,30,main,"meaning, form",true,response_2,response_1
+round_2,4,25,22,main,"meaning, form",true,response_2,response_1
+round_2,4,26,3,main,"meaning, form",false,response_1,response_2
+round_2,4,27,38,repeat,"meaning, form",false,response_1,response_2
+round_2,4,28,36,main,"meaning, form",true,response_2,response_1
+round_2,4,29,21,main,"meaning, form",true,response_2,response_1
+round_2,4,30,28,catch,"meaning, form",false,response_1,response_1
+round_2,4,31,90,main,"meaning, form",true,response_2,response_1
+round_2,4,32,9,main,"meaning, form",true,response_2,response_1
+round_2,4,33,65,main,"meaning, form",false,response_1,response_2
+round_2,4,34,59,main,"meaning, form",false,response_1,response_2
+round_2,4,35,53,main,"meaning, form",true,response_2,response_1
+round_2,4,36,50,main,"meaning, form",true,response_2,response_1
+round_2,4,37,93,halo,"meaning, form",false,response_1,response_2
+round_2,4,38,84,main,"meaning, form",true,response_2,response_1
+round_2,4,39,4,repeat,"meaning, form",true,response_2,response_1
+round_2,4,40,81,main,"meaning, form",true,response_2,response_1
+round_2,4,41,4,main,"meaning, form",false,response_1,response_2
+round_2,4,42,58,main,"meaning, form",true,response_2,response_1
+round_2,5,1,85,main,"meaning, form",false,response_1,response_2
+round_2,5,2,69,main,"meaning, form",true,response_2,response_1
+round_2,5,3,60,main,"meaning, form",false,response_1,response_2
+round_2,5,4,20,main,"meaning, form",true,response_2,response_1
+round_2,5,5,70,main,"meaning, form",false,response_1,response_2
+round_2,5,6,4,catch,"meaning, form",false,response_1,response_1
+round_2,5,7,14,main,"meaning, form",false,response_1,response_2
+round_2,5,8,3,main,"meaning, form",true,response_2,response_1
+round_2,5,9,67,main,"meaning, form",false,response_1,response_2
+round_2,5,10,56,main,"meaning, form",true,response_2,response_1
+round_2,5,11,72,main,"meaning, form",false,response_1,response_2
+round_2,5,12,93,halo,"meaning, form",false,response_1,response_2
+round_2,5,13,76,main,"meaning, form",false,response_1,response_2
+round_2,5,14,19,main,"meaning, form",true,response_2,response_1
+round_2,5,15,25,repeat,"meaning, form",false,response_1,response_2
+round_2,5,16,50,main,"meaning, form",false,response_1,response_2
+round_2,5,17,75,main,"meaning, form",true,response_2,response_1
+round_2,5,18,27,main,"meaning, form",true,response_2,response_1
+round_2,5,19,22,main,"meaning, form",true,response_2,response_1
+round_2,5,20,32,main,"meaning, form",true,response_2,response_1
+round_2,5,21,16,main,"meaning, form",false,response_1,response_2
+round_2,5,22,80,main,"meaning, form",true,response_2,response_1
+round_2,5,23,91,halo,"meaning, form",false,response_1,response_2
+round_2,5,24,49,main,"meaning, form",true,response_2,response_1
+round_2,5,25,34,main,"meaning, form",true,response_2,response_1
+round_2,5,26,55,main,"meaning, form",true,response_2,response_1
+round_2,5,27,13,repeat,"meaning, form",true,response_2,response_1
+round_2,5,28,25,main,"meaning, form",true,response_2,response_1
+round_2,5,29,29,main,"meaning, form",false,response_1,response_2
+round_2,5,30,66,catch,"meaning, form",false,response_2,response_2
+round_2,5,31,23,main,"meaning, form",true,response_2,response_1
+round_2,5,32,7,main,"meaning, form",false,response_1,response_2
+round_2,5,33,83,main,"meaning, form",true,response_2,response_1
+round_2,5,34,92,halo,"meaning, form",true,response_2,response_1
+round_2,5,35,39,main,"meaning, form",false,response_1,response_2
+round_2,5,36,90,main,"meaning, form",false,response_1,response_2
+round_2,5,37,24,main,"meaning, form",true,response_2,response_1
+round_2,5,38,88,main,"meaning, form",true,response_2,response_1
+round_2,5,39,75,repeat,"meaning, form",false,response_1,response_2
+round_2,5,40,52,main,"meaning, form",true,response_2,response_1
+round_2,5,41,43,main,"meaning, form",true,response_2,response_1
+round_2,5,42,13,main,"meaning, form",false,response_1,response_2
+round_2,6,1,82,main,"meaning, form",true,response_2,response_1
+round_2,6,2,76,main,"meaning, form",true,response_2,response_1
+round_2,6,3,63,main,"meaning, form",true,response_2,response_1
+round_2,6,4,2,main,"meaning, form",true,response_2,response_1
+round_2,6,5,13,main,"meaning, form",false,response_1,response_2
+round_2,6,6,28,catch,"meaning, form",false,response_1,response_1
+round_2,6,7,37,main,"meaning, form",true,response_2,response_1
+round_2,6,8,93,halo,"meaning, form",true,response_2,response_1
+round_2,6,9,62,main,"meaning, form",true,response_2,response_1
+round_2,6,10,34,main,"meaning, form",true,response_2,response_1
+round_2,6,11,27,main,"meaning, form",false,response_1,response_2
+round_2,6,12,31,main,"meaning, form",false,response_1,response_2
+round_2,6,13,42,main,"meaning, form",true,response_2,response_1
+round_2,6,14,25,main,"meaning, form",false,response_1,response_2
+round_2,6,15,31,repeat,"meaning, form",true,response_2,response_1
+round_2,6,16,75,main,"meaning, form",false,response_1,response_2
+round_2,6,17,48,main,"meaning, form",false,response_1,response_2
+round_2,6,18,12,main,"meaning, form",false,response_1,response_2
+round_2,6,19,78,main,"meaning, form",false,response_1,response_2
+round_2,6,20,86,main,"meaning, form",true,response_2,response_1
+round_2,6,21,70,main,"meaning, form",true,response_2,response_1
+round_2,6,22,64,main,"meaning, form",false,response_1,response_2
+round_2,6,23,17,main,"meaning, form",true,response_2,response_1
+round_2,6,24,21,main,"meaning, form",true,response_2,response_1
+round_2,6,25,92,halo,"meaning, form",false,response_1,response_2
+round_2,6,26,10,main,"meaning, form",true,response_2,response_1
+round_2,6,27,75,repeat,"meaning, form",true,response_2,response_1
+round_2,6,28,65,main,"meaning, form",false,response_1,response_2
+round_2,6,29,55,main,"meaning, form",true,response_2,response_1
+round_2,6,30,66,catch,"meaning, form",false,response_1,response_1
+round_2,6,31,14,main,"meaning, form",false,response_1,response_2
+round_2,6,32,89,main,"meaning, form",false,response_1,response_2
+round_2,6,33,60,main,"meaning, form",false,response_1,response_2
+round_2,6,34,46,main,"meaning, form",true,response_2,response_1
+round_2,6,35,41,main,"meaning, form",false,response_1,response_2
+round_2,6,36,79,main,"meaning, form",true,response_2,response_1
+round_2,6,37,91,halo,"meaning, form",false,response_1,response_2
+round_2,6,38,53,main,"meaning, form",false,response_1,response_2
+round_2,6,39,13,repeat,"meaning, form",true,response_2,response_1
+round_2,6,40,4,main,"meaning, form",true,response_2,response_1
+round_2,6,41,33,main,"meaning, form",true,response_2,response_1
+round_2,6,42,84,main,"meaning, form",false,response_1,response_2
+round_2,7,1,54,main,"meaning, form",true,response_2,response_1
+round_2,7,2,61,main,"meaning, form",false,response_1,response_2
+round_2,7,3,66,main,"meaning, form",false,response_1,response_2
+round_2,7,4,5,main,"meaning, form",true,response_2,response_1
+round_2,7,5,10,main,"meaning, form",false,response_1,response_2
+round_2,7,6,28,catch,"meaning, form",false,response_1,response_1
+round_2,7,7,74,main,"meaning, form",false,response_1,response_2
+round_2,7,8,29,main,"meaning, form",true,response_2,response_1
+round_2,7,9,92,halo,"meaning, form",false,response_1,response_2
+round_2,7,10,56,main,"meaning, form",true,response_2,response_1
+round_2,7,11,19,main,"meaning, form",false,response_1,response_2
+round_2,7,12,40,main,"meaning, form",true,response_2,response_1
+round_2,7,13,83,main,"meaning, form",true,response_2,response_1
+round_2,7,14,41,main,"meaning, form",false,response_1,response_2
+round_2,7,15,66,repeat,"meaning, form",true,response_2,response_1
+round_2,7,16,20,main,"meaning, form",true,response_2,response_1
+round_2,7,17,73,main,"meaning, form",false,response_1,response_2
+round_2,7,18,35,main,"meaning, form",false,response_1,response_2
+round_2,7,19,47,main,"meaning, form",false,response_1,response_2
+round_2,7,20,68,main,"meaning, form",true,response_2,response_1
+round_2,7,21,91,halo,"meaning, form",false,response_1,response_2
+round_2,7,22,58,main,"meaning, form",true,response_2,response_1
+round_2,7,23,88,main,"meaning, form",false,response_1,response_2
+round_2,7,24,1,main,"meaning, form",true,response_2,response_1
+round_2,7,25,11,main,"meaning, form",true,response_2,response_1
+round_2,7,26,21,main,"meaning, form",false,response_1,response_2
+round_2,7,27,77,repeat,"meaning, form",true,response_2,response_1
+round_2,7,28,45,main,"meaning, form",true,response_2,response_1
+round_2,7,29,77,main,"meaning, form",false,response_1,response_2
+round_2,7,30,25,catch,"meaning, form",false,response_2,response_2
+round_2,7,31,67,main,"meaning, form",false,response_1,response_2
+round_2,7,32,87,main,"meaning, form",true,response_2,response_1
+round_2,7,33,8,main,"meaning, form",true,response_2,response_1
+round_2,7,34,93,halo,"meaning, form",false,response_1,response_2
+round_2,7,35,30,main,"meaning, form",true,response_2,response_1
+round_2,7,36,84,main,"meaning, form",false,response_1,response_2
+round_2,7,37,15,main,"meaning, form",true,response_2,response_1
+round_2,7,38,33,main,"meaning, form",false,response_1,response_2
+round_2,7,39,19,repeat,"meaning, form",true,response_2,response_1
+round_2,7,40,36,main,"meaning, form",true,response_2,response_1
+round_2,7,41,57,main,"meaning, form",false,response_1,response_2
+round_2,8,1,26,main,"meaning, form",false,response_1,response_2
+round_2,8,2,61,main,"meaning, form",false,response_1,response_2
+round_2,8,3,8,main,"meaning, form",false,response_1,response_2
+round_2,8,4,52,main,"meaning, form",true,response_2,response_1
+round_2,8,5,49,main,"meaning, form",false,response_1,response_2
+round_2,8,6,25,catch,"meaning, form",false,response_2,response_2
+round_2,8,7,14,main,"meaning, form",false,response_1,response_2
+round_2,8,8,17,main,"meaning, form",false,response_1,response_2
+round_2,8,9,44,main,"meaning, form",true,response_2,response_1
+round_2,8,10,92,halo,"meaning, form",true,response_2,response_1
+round_2,8,11,28,main,"meaning, form",false,response_1,response_2
+round_2,8,12,71,main,"meaning, form",false,response_1,response_2
+round_2,8,13,87,main,"meaning, form",false,response_1,response_2
+round_2,8,14,11,main,"meaning, form",false,response_1,response_2
+round_2,8,15,49,repeat,"meaning, form",true,response_2,response_1
+round_2,8,16,36,main,"meaning, form",true,response_2,response_1
+round_2,8,17,68,main,"meaning, form",false,response_1,response_2
+round_2,8,18,57,main,"meaning, form",false,response_1,response_2
+round_2,8,19,81,main,"meaning, form",false,response_1,response_2
+round_2,8,20,66,main,"meaning, form",false,response_1,response_2
+round_2,8,21,47,main,"meaning, form",true,response_2,response_1
+round_2,8,22,12,main,"meaning, form",true,response_2,response_1
+round_2,8,23,93,halo,"meaning, form",false,response_1,response_2
+round_2,8,24,59,main,"meaning, form",false,response_1,response_2
+round_2,8,25,46,main,"meaning, form",false,response_1,response_2
+round_2,8,26,16,main,"meaning, form",false,response_1,response_2
+round_2,8,27,16,repeat,"meaning, form",true,response_2,response_1
+round_2,8,28,6,main,"meaning, form",false,response_1,response_2
+round_2,8,29,80,main,"meaning, form",false,response_1,response_2
+round_2,8,30,77,catch,"meaning, form",false,response_2,response_2
+round_2,8,31,85,main,"meaning, form",true,response_2,response_1
+round_2,8,32,37,main,"meaning, form",true,response_2,response_1
+round_2,8,33,41,main,"meaning, form",false,response_1,response_2
+round_2,8,34,42,main,"meaning, form",true,response_2,response_1
+round_2,8,35,23,main,"meaning, form",true,response_2,response_1
+round_2,8,36,83,main,"meaning, form",true,response_2,response_1
+round_2,8,37,91,halo,"meaning, form",true,response_2,response_1
+round_2,8,38,74,main,"meaning, form",true,response_2,response_1
+round_2,8,39,28,repeat,"meaning, form",true,response_2,response_1
+round_2,8,40,45,main,"meaning, form",false,response_1,response_2
+round_2,8,41,3,main,"meaning, form",false,response_1,response_2
